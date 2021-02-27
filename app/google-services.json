@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226197280166",
+    "project_id": "sdio-internslimitedw",
+    "storage_bucket": "sdio-internslimitedw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226197280166:android:c5288334a348912ff26b67",
+        "android_client_info": {
+          "package_name": "com.example.sdiointernslimited"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226197280166-eb8v86trvifub6tt5117f642q4b943r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdChLgrZuDRF2XnhX2BXTU7T6T87WJ-ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226197280166-eb8v86trvifub6tt5117f642q4b943r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
